@@ -1,0 +1,2 @@
+# debug-CI
+Debugging CodeIgniter
